@@ -1,5 +1,5 @@
 ---
-title: 'アリとキリギリスとランニング'
+title: 'アリとキリギリスとワイ'
 description: '童話の身勝手な解釈'
 pubDate: 'Feb 10 2025'
 heroImage: '/blog-placeholder-2.jpg'

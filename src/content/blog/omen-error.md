@@ -2,7 +2,7 @@
 title: 'OMEN30Lで発生する暗転や再起動してしまう問題'
 description: '時代はHP'
 pubDate: 'Nov 12 2021'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: "https://0a1784c609a26387b1ee06a592656044.r2.cloudflarestorage.com/public/blog-placeholder-3.jpg"
 ---
 
 スタバMacもいいですが、自宅OMENも中々ドヤれる気がしてならない今日この頃です。と言うことでゲーミングPCを買いました。

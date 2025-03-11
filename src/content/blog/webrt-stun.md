@@ -1,7 +1,7 @@
 ---
 title: 'WebRTCのNAT越えに失敗した'
 description: '助けてSTUN'
-pubDate: 'Feb 13 2025'
+pubDate: '2025-02-13'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 

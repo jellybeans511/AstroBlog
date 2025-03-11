@@ -1,7 +1,7 @@
 ---
 title: '科学的トレーニングは銀の弾丸なのか？'
 description: 'まじめな記事'
-pubDate: 'Mar 4 2025'
+pubDate: '2025-03-04'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 

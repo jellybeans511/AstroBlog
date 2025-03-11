@@ -1,7 +1,7 @@
 ---
 title: '休息にならない暇は毒'
 description: '文豪'
-pubDate: 'May 20 2021'
+pubDate: '2021-05-20'
 heroImage: '/blog-placeholder-5.jpg'
 ---
 

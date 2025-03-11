@@ -1,7 +1,7 @@
 ---
 title:  'Next.jsに引っ越し'
 description: '後に大物ブロガーになる男'
-pubDate: 'Apr 27 2022'
+pubDate: '2022-04-27'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 

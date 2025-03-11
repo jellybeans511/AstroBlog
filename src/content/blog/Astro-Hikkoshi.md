@@ -1,7 +1,7 @@
 ---
 title:  'Astro & Cloudflare R2 に引っ越し'
 description: '後に大物ブロガーになる男 v2'
-pubDate: 'Feb 08 2025'
+pubDate: '2025-02-08'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 

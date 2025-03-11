@@ -1,7 +1,7 @@
 ---
 title: 'FPSを始めたけど瞬殺された話'
 description: 'シルバーの床舐め族'
-pubDate: 'Jun 21 2022'
+pubDate: '2022-06-21'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 

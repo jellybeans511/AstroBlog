@@ -1,7 +1,7 @@
 ---
 title: 'トレッドミルのすゝめ'
 description: '解脱'
-pubDate: 'Feb 14 2025'
+pubDate: '2025-02-14'
 heroImage: '/blog-placeholder-5.jpg'
 ---
 

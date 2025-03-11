@@ -1,7 +1,7 @@
 ---
 title: 'OMEN30Lで発生する暗転や再起動してしまう問題'
 description: '時代はHP'
-pubDate: 'Nov 12 2021'
+pubDate: '2021-11-12'
 heroImage: "/blog-placeholder-3.jpg"
 ---
 

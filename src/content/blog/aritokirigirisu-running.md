@@ -1,7 +1,7 @@
 ---
 title: "アリとキリギリスとワイ"
 description: "童話の身勝手な解釈"
-pubDate: "2025-03-29"
+pubDate: "2025-03-27"
 heroImage: "/blog-placeholder-2.jpg"
 ---
 

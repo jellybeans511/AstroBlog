@@ -1,4 +1,8 @@
 # Astro Starter Kit: Blog
+趣味とエッセイ（？）を書いていきます
+AstroとCloudflarePagesで爆速デプロイ
+
+# Astro Starter Kit: Blog
 
 ```sh
 npm create astro@latest -- --template blog

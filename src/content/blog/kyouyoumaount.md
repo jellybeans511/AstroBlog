@@ -2,7 +2,7 @@
 title: "教養で人を殴らないでください"
 description: "教養マウントはどこから湧いた？"
 pubDate: "2025-06-28"
-heroImage: "https://0a1784c609a26387b1ee06a592656044.r2.cloudflarestorage.com/public/kyouyou-hummer.png"
+heroImage: "https://pub-2aeff2cac9147279cf0173e1afc3ee.r2.dev/public/kyouyou-hummer.png"
 ---
 
 「教養」という言葉に、すこし居心地の悪さを感じるようになったのは、詳しくは覚えていないが大学生の頃だった。

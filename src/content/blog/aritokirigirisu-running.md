@@ -2,7 +2,7 @@
 title: "アリとキリギリスとワイ"
 description: "童話の身勝手な解釈"
 pubDate: "2025-03-27"
-heroImage: "https://docteu.com/public/blog-placeholder-2.jpg"
+heroImage: "https://docteu.com/blog-placeholder-2.jpg"
 ---
 
 #### みなさん、没頭できる時間はありますか？

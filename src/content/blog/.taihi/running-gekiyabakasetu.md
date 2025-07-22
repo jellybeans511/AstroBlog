@@ -2,7 +2,7 @@
 title: "ランニングのパフォーマンスを決定づける仮説:どくてう的見解"
 description: "仁義なき腱力闘争"
 pubDate: "2025-07-17"
-heroImage: "https://docteu.com/public/hikaruashi.png"
+heroImage: "/blog-placeholder-5.jpg"
 ---
 
 #### ランニングパフォーマンスの階層的理解

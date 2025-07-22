@@ -2,7 +2,7 @@
 title: 'トレッドミルのすゝめ'
 description: '解脱'
 pubDate: '2025-03-28'
-heroImage: '/blog-placeholder-5.jpg'
+heroImage: 'https://docteu.com/public/blog-placeholder-5.jpg'
 ---
 
 ### エッセイ:トレッドミルのすゝめ

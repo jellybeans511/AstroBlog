@@ -2,7 +2,7 @@
 title: 'WebRTCのNAT越えに失敗した'
 description: '助けてSTUN'
 pubDate: '2025-02-13'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: 'https://docteu.com/public/blog-placeholder-4.jpg'
 ---
 
 #### 閉域でWebRTCを使う

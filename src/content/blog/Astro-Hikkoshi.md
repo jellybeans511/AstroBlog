@@ -2,7 +2,7 @@
 title:  'Astro & Cloudflare R2 に引っ越し'
 description: '後に大物ブロガーになる男 v2'
 pubDate: '2025-02-08'
-heroImage: 'https://docteu.com/blog-placeholder-2.jpg'
+heroImage: '/blog-placeholder-2.jpg'
 ---
 
 ### Next.jsが覇権だと言ったな。

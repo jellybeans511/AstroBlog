@@ -2,7 +2,7 @@
 title:  'WebRTCを閉域で使うことについて'
 description: 'NATを越えないWebRTCとは(´･_･`)'
 pubDate: '2025-02-09'
-heroImage: 'https://docteu.com/blog-placeholder-4.jpg'
+heroImage: '/blog-placeholder-4.jpg'
 ---
 
 #### 閉域網でWebRTCを使う

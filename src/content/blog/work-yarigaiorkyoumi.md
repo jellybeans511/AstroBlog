@@ -2,7 +2,7 @@
 title: "仕事は「好き」で選ぶか「得意」で選ぶか？"
 description: "どっちでもいいけど職がほしい"
 pubDate: "2025-03-29"
-heroImage: "https://docteu.com/blog-placeholder-4.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 ---
 
 #### 「好き」を仕事にするか、「向いている」を仕事にするか

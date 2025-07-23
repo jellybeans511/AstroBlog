@@ -2,7 +2,7 @@
 title: '科学的トレーニングは銀の弾丸なのか？'
 description: 'まじめな記事'
 pubDate: '2025-03-04'
-heroImage: 'https://docteu.com/blog-placeholder-2.jpg'
+heroImage: '/blog-placeholder-2.jpg'
 ---
 
 東京マラソン2025で2:32のPBを出して浮かれています。どくてうです。

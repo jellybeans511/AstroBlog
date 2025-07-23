@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(npx wrangler r2 bucket:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(npm run build:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
